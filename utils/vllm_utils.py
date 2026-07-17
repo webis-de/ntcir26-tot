@@ -1,4 +1,22 @@
+import logging
+from typing import Optional
 
+from vllm import LLM
+
+
+logger = logging.getLogger(__name__)
+
+
+def clean_gpu_context_memory(llm: Optional[LLM]) -> None:
+    logger.info(f"Tearing down LLM engine context for {model_name}...")
+    if llm is not None:
+        llm.engine.context_manager.free_all_cached_tensors()
+        del llm
+        import gc
+        import torch
+        gc.collect()
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
 
 def collect_metadata(query_id, output, generated_text, query_reduction):
     metrics = getattr(output, "metrics", None)
