@@ -60,7 +60,7 @@ def main(models: list[str]) -> None:
             except Exception as e:
                 logger.critical(f"Critical execution failure tracking pipeline {prompt_id}: {str(e)}", exc_info=True)
 
-        clean_gpu_context_memory(llm)
+        clean_gpu_context_memory(llm, model_name)
 
 
 if __name__ == '__main__':
