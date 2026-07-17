@@ -87,7 +87,11 @@ class QueryReductionPipeline:
     @staticmethod
     def _parse_reduction(response_text: str) -> Optional[str]:
         try:
-            return LongQueryReduction.model_validate_json(response_text).query_reduction
+            data = json.loads(response_text)
+            try:
+                return LongQueryReduction.model_validate_json(data).query_reduction
+            except Exception:
+                return data.get("query_reduction")
         except Exception:
             logger.error(f"Failed to parse JSON schema from response snippet: {response_text[:100]}...")
             return None
