@@ -12,7 +12,7 @@ mkdir -p logs-vllm
 source ~/miniconda3/bin/activate
 conda activate ollama_env
 
-pip3 uninstall -y ir_datasets
+# pip3 uninstall -y ir_datasets
 pip3 install "git+https://github.com/NTCIR-ToT/ir_datasets.git"
 pip3 install tira numpy pyterrier click openai
 # pip3 install -r requirements.txt
