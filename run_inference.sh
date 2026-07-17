@@ -12,6 +12,8 @@ mkdir -p logs-vllm
 source ~/miniconda3/bin/activate
 conda activate ollama_env
 
+pip install -r requirements.txt
+
 export HF_TOKEN=$(cat ~/.hf_token)
 
 echo "Starting sequential evaluation suite..."
