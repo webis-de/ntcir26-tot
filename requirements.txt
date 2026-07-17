@@ -1,9 +1,8 @@
 click==8.4.2
 ir_datasets @ git+https://github.com/NTCIR-ToT/ir_datasets.git@957c6806587ef8c79e2096b8ebce1de21ff7bc39
 numpy==2.5.1
-openai==2.45.0
-outlines==1.3.1
 pandas==3.0.3
 pyterrier==1.1.0
 tira==0.0.203
 tqdm==4.68.4
+vllm==0.25.1
