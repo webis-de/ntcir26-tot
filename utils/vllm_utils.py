@@ -14,7 +14,7 @@ def clean_gpu_context_memory(llm: Optional[LLM], model_name: str) -> None:
             if hasattr(llm, "llm_engine") and hasattr(llm.llm_engine, "shutdown"):
                 llm.llm_engine.shutdown()
         except Exception as e:
-            logger.warning(f"Engine pool cleanup warning: {teardown_err}")
+            logger.warning(f"Engine pool cleanup warning: {e}")
         # llm.engine.context_manager.free_all_cached_tensors()
         del llm
         import gc
