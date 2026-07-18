@@ -8,9 +8,14 @@ logger = logging.getLogger(__name__)
 
 
 def clean_gpu_context_memory(llm: Optional[LLM], model_name: str) -> None:
-    logger.info(f"Tearing down LLM engine context for {model_name}...")
     if llm is not None:
-        llm.engine.context_manager.free_all_cached_tensors()
+        logger.info(f"Tearing down LLM engine context for {model_name}...")
+        try:
+            if hasattr(llm, "llm_engine") and hasattr(llm.llm_engine, "shutdown"):
+                llm.llm_engine.shutdown()
+        except Exception as e:
+            logger.warning(f"Engine pool cleanup warning: {teardown_err}")
+        # llm.engine.context_manager.free_all_cached_tensors()
         del llm
         import gc
         import torch
