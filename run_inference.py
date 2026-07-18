@@ -56,10 +56,10 @@ def main(models: list[str]) -> None:
         llm = None
 
         for prompt_id in get_prompt_names():
-            try:
-                llm = run_predictions_core(model_name, prompt_id)
-            except Exception as e:
-                logger.critical(f"Critical execution failure tracking pipeline {prompt_id}: {str(e)}", exc_info=True)
+            # try:
+            llm = run_predictions_core(model_name, prompt_id)
+            # except Exception as e:
+                # logger.critical(f"Critical execution failure tracking pipeline {prompt_id}: {str(e)}", exc_info=True)
 
         clean_gpu_context_memory(llm, model_name)
 
