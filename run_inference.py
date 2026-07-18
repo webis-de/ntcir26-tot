@@ -23,7 +23,7 @@ def run_predictions_core(model_name: str, prompt_id: str, llm: Optional[LLM] = N
     completed_ids = pipeline.load_processed_ids()
     batch_messages, batch_metadata = pipeline.prepare_batches(completed_ids)
 
-    if not batch_messages:
+    if not batch_messages or len(batch_messages) == 0:
         logger.info(f"All jobs for Prompt '{prompt_id}' are already completed. Skipping.")
         return llm
 
