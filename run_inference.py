@@ -45,7 +45,7 @@ def run_predictions_core(model_name: str, prompt_id: str, llm: Optional[LLM] = N
 @click.option('--models', '-m',
               multiple=True,
               #default=["google/gemma-3-12b-it", "meta-llama/Llama-3.1-8B-Instruct", "Qwen/Qwen2.5-14B-Instruct", "Qwen/Qwen3-32B-AWQ", "hugging-quants/Meta-Llama-3.1-70B-Instruct-AWQ-INT4", "shuyuej/Llama-3.3-70B-Instruct-GPTQ", "openai/gpt-oss-20b"],
-              default=["google/gemma-3-12b-it"],
+              # default=["google/gemma-3-12b-it"],
               help="LLM model identifiers from HuggingFace or path.")
 def main(models: list[str]) -> None:
     os.makedirs(OUT_DIR, exist_ok=True)
