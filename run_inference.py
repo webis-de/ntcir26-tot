@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 
 def run_predictions_core(model_name: str, prompt_id: str, llm: Optional[LLM] = None) -> Optional[LLM]:
-    logger.info(f"Starting inference for Model: {model_name} | Prompt: {prompt_id}")
+    logger.info(f"Starting inference for Prompt: {prompt_id}")
 
     pipeline = QueryReductionPipeline(model_name, prompt_id)
     completed_ids = pipeline.load_processed_ids()

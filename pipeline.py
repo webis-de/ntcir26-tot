@@ -67,11 +67,15 @@ class QueryReductionPipeline:
 
         for query in ir_datasets.load(DATASET_NAME).queries_iter():
             qid = str(query.query_id)
+            query_text = query.text
             if qid in list_to_skip:
                 skip_count += 1
                 continue
 
-            messages = get_chat_messages(self.prompt_id, query)
+            messages = get_chat_messages(self.prompt_id, query_text)
+            if not messages:
+                logger.warning(f"Empty message list generated for query_id {qid}. Skipping.")
+                continue
             batch_messages.append(messages)
             batch_metadata.append({
                 "query_id": qid,
