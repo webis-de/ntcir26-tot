@@ -42,26 +42,21 @@ def run_predictions_core(model_name: str, prompt_id: str, llm: Optional[LLM] = N
 
 
 @click.command()
-@click.option('--models', '-m',
-              multiple=True,
-              #default=["google/gemma-3-12b-it", "meta-llama/Llama-3.1-8B-Instruct", "Qwen/Qwen2.5-14B-Instruct", "Qwen/Qwen3-32B-AWQ", "hugging-quants/Meta-Llama-3.1-70B-Instruct-AWQ-INT4", "shuyuej/Llama-3.3-70B-Instruct-GPTQ", "openai/gpt-oss-20b"],
-              # default=["google/gemma-3-12b-it"],
-              help="LLM model identifiers from HuggingFace or path.")
-def main(models: list[str]) -> None:
+@click.option('--model', '-m', required=True, help="LLM model identifier from HuggingFace or path.")
+def main(model_name: str) -> None:
     os.makedirs(OUT_DIR, exist_ok=True)
     os.makedirs(LOG_DIR, exist_ok=True)
 
-    for model_name in models:
-        logger.info(f"Starting inference for Model: {model_name}")
-        llm = None
+    logger.info(f"Starting inference for Model: {model_name}")
+    llm = None
 
-        for prompt_id in get_prompt_names():
-            # try:
-            llm = run_predictions_core(model_name, prompt_id)
-            # except Exception as e:
-                # logger.critical(f"Critical execution failure tracking pipeline {prompt_id}: {str(e)}", exc_info=True)
+    for prompt_id in get_prompt_names():
+        # try:
+        llm = run_predictions_core(model_name, prompt_id)
+        # except Exception as e:
+            # logger.critical(f"Critical execution failure tracking pipeline {prompt_id}: {str(e)}", exc_info=True)
 
-        clean_gpu_context_memory(llm, model_name)
+        # clean_gpu_context_memory(llm, model_name)
 
 
 if __name__ == '__main__':
