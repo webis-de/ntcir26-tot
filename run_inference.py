@@ -52,7 +52,7 @@ def main(model_name: str) -> None:
 
     for prompt_id in get_prompt_names():
         # try:
-        llm = run_predictions_core(model_name, prompt_id)
+        llm = run_predictions_core(model_name, prompt_id, llm)
         # except Exception as e:
             # logger.critical(f"Critical execution failure tracking pipeline {prompt_id}: {str(e)}", exc_info=True)
 
