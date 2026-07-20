@@ -43,16 +43,16 @@ def run_predictions_core(model_name: str, prompt_id: str, llm: Optional[LLM] = N
 
 @click.command()
 @click.option('--model', '-m', required=True, help="LLM model identifier from HuggingFace or path.")
-def main(model_name: str) -> None:
+def main(model: str) -> None:
     os.makedirs(OUT_DIR, exist_ok=True)
     os.makedirs(LOG_DIR, exist_ok=True)
 
-    logger.info(f"Starting inference for Model: {model_name}")
+    logger.info(f"Starting inference for Model: {model}")
     llm = None
 
     for prompt_id in get_prompt_names():
         # try:
-        llm = run_predictions_core(model_name, prompt_id, llm)
+        llm = run_predictions_core(model, prompt_id, llm)
         # except Exception as e:
             # logger.critical(f"Critical execution failure tracking pipeline {prompt_id}: {str(e)}", exc_info=True)
 
