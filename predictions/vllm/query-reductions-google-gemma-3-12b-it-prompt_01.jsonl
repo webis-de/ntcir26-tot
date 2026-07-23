@@ -16,42 +16,42 @@
 {"query_id": "4516", "prompt_id": "prompt_01", "query_reduction": "eerie movie, family, small town, animal burial ground, resurrected pet, New England, tragic accident, haunting themes", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4517", "prompt_id": "prompt_01", "query_reduction": "film, young woman, creative, mentor, coastal setting, introspective", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4518", "prompt_id": "prompt_01", "query_reduction": "British horror film, 1970s, mansion, family secret, unsettling atmosphere", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4519", "prompt_id": "prompt_01", "query_reduction": "movie, insect attack, catering party, mutated creatures, survival thriller", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4519", "prompt_id": "prompt_01", "query_reduction": "movie, insect attack, catering party, mutated insects, survival thriller", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4520", "prompt_id": "prompt_01", "query_reduction": "Indian film, cricket, father-son relationship, comeback story", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4521", "prompt_id": "prompt_01", "query_reduction": "young man, big city, gritty, crime, romantic director", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4521", "prompt_id": "prompt_01", "query_reduction": "young man, big city, crime, intense, romantic director", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4522", "prompt_id": "prompt_01", "query_reduction": "Southern Indian crime mystery film, seasoned lead actor, gritty feel, recent release", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4523", "prompt_id": "prompt_01", "query_reduction": "late 90s film, hitman, hometown reunion, old flame (radio DJ), dark humor, action, 80s soundtrack", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4524", "prompt_id": "prompt_01", "query_reduction": "gritty film, intense male lead, moral dilemmas, corrupt system, 1970s, city setting", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4525", "prompt_id": "prompt_01", "query_reduction": "futuristic movie, quirky inventor, flying vehicle, time travel, carnival world, villain with powerful book", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4525", "prompt_id": "prompt_01", "query_reduction": "futuristic movie, quirky inventor, flying vehicle, time travel, carnival world, villain with a book", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4526", "prompt_id": "prompt_01", "query_reduction": "late 90s war movie, soldiers, treasure hunt, Middle East", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4527", "prompt_id": "prompt_01", "query_reduction": "early sound film, city gripped by fear, unsettling children events, whistling main character, vigilante group, moral twist", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4527", "prompt_id": "prompt_01", "query_reduction": "early sound film, city gripped by fear, unsettling events involving children, whistling main character, vigilante group, moral twist", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4528", "prompt_id": "prompt_01", "query_reduction": "historical fantasy movie, brooding protagonist, rivalry, mentor, time travel", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4529", "prompt_id": "prompt_01", "query_reduction": "movie about slithery creatures causing chaos in a confined space", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4530", "prompt_id": "prompt_01", "query_reduction": "creepy found footage film, forest, missing person mystery, young adults, sequel ignoring previous film, comic event premiere", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4531", "prompt_id": "prompt_01", "query_reduction": "Sci-fi kung fu film, woman, multiple realities, surreal comedy", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4532", "prompt_id": "prompt_01", "query_reduction": "Japanese film, two women, tall grass setting, soldiers, unsettling atmosphere, mask, unique music", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4533", "prompt_id": "prompt_01", "query_reduction": "Detective film, woman's fall, unsettling mystery, eerie atmosphere, city setting, two languages", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4533", "prompt_id": "prompt_01", "query_reduction": "Detective film, woman's fall, ritualistic elements, eerie atmosphere, city setting, two languages", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4534", "prompt_id": "prompt_01", "query_reduction": "Surreal sci-fi noir film, Los Angeles, amnesiac man, precognitive woman, twins/doppelgangers, conspiracy, time, electronic soundtrack, mid-2000s film festival", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4535", "prompt_id": "prompt_01", "query_reduction": "Film about two people, unusual meeting, countdown to a date, travel, catchy music, quirky style, humor/drama/romance", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4536", "prompt_id": "prompt_01", "query_reduction": "movie, military, eye patch, historical thriller, overthrow leader, controversial", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4537", "prompt_id": "prompt_01", "query_reduction": "movie about Moon behaving strangely, former space travelers, space adventure/disaster", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4538", "prompt_id": "prompt_01", "query_reduction": "man discovers he's in a video game, quirky comedy, heist subplot, vibrant visuals, corporate villain", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4539", "prompt_id": "prompt_01", "query_reduction": "Drama film, woman's journey, lush to desert setting, gilded cage household, strong female lead", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4540", "prompt_id": "prompt_01", "query_reduction": "quirky movie, women vs. clueless boss, office setting, revenge plot, possible musical element", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4538", "prompt_id": "prompt_01", "query_reduction": "man discovers he's in a video game, quirky, comedic, heist subplot, vibrant visuals, corporate villain", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4539", "prompt_id": "prompt_01", "query_reduction": "Drama film, woman journey, lush place to sandy land, gilded cage, strong female lead", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4540", "prompt_id": "prompt_01", "query_reduction": "movie about women pranking clueless boss in office", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4541", "prompt_id": "prompt_01", "query_reduction": "animated movie, anthropomorphic vehicles, red speedster, racing, mentor/coach", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4542", "prompt_id": "prompt_01", "query_reduction": "baseball movie, stats, data analytics, underdog team, early 2000s", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4543", "prompt_id": "prompt_01", "query_reduction": "Film about strangers connected by food deliveries and handwritten notes, explores longing and missed opportunities.", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4543", "prompt_id": "prompt_01", "query_reduction": "film, strangers, food deliveries, handwritten notes, longing, bittersweet", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4544", "prompt_id": "prompt_01", "query_reduction": "film about eccentric genius obsessed with flying, old Hollywood, famous actress, inner demons, haunting scenes", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4545", "prompt_id": "prompt_01", "query_reduction": "late 90s movie, blue-collar workers, save world from space rock, action hero cast", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4546", "prompt_id": "prompt_01", "query_reduction": "sci-fi movie, early 90s, space series, political factions, moon explosion, peace talks, captain's conflict", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4547", "prompt_id": "prompt_01", "query_reduction": "action film, Robin Hood-like character, woman, chase scenes, Mediterranean/Southeast Asia, trust/deception theme", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4547", "prompt_id": "prompt_01", "query_reduction": "action film, Robin Hood-like character, woman, chase scenes, Mediterranean/Southeast Asia, trust/deception twist", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4548", "prompt_id": "prompt_01", "query_reduction": "eerie movie, mansion, women, creepy mask, artsy/jarring scenes", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4549", "prompt_id": "prompt_01", "query_reduction": "Action film, satellite gadget, satellite crash, team of misfits, Asian character, spy thriller elements", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4550", "prompt_id": "prompt_01", "query_reduction": "South American film, legal drama, historical events, justice, two lawyers", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4551", "prompt_id": "prompt_01", "query_reduction": "American politician, financial systems, major conflict, currency, legal proceedings", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4552", "prompt_id": "prompt_01", "query_reduction": "Artist exploring time, memory, and relationships in films/visual essays", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4553", "prompt_id": "prompt_01", "query_reduction": "Architect, industrial gothic style, Philadelphia, Chicago connection", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4554", "prompt_id": "prompt_01", "query_reduction": "Southern guitarist, unique style, slide guitar, played with legends, track reimagined by another artist, early death", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4554", "prompt_id": "prompt_01", "query_reduction": "Southern guitarist, unique style, slide guitar, played with legends, track remixed by famous artist, early death", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4555", "prompt_id": "prompt_01", "query_reduction": "landscape architect, castle-like structures, gardens, fairy tale design, Northeast, tragic accident", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4556", "prompt_id": "prompt_01", "query_reduction": "tennis player, defied expectations, clay courts, European city, underdog", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4557", "prompt_id": "prompt_01", "query_reduction": "Influential figure, print/media, modern twist, legal challenge, environmental passion", "model_name": "google/gemma-3-12b-it"}
@@ -70,7 +70,7 @@
 {"query_id": "4570", "prompt_id": "prompt_01", "query_reduction": null, "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4571", "prompt_id": "prompt_01", "query_reduction": "Former player, switched teams, international career, memorable goal celebration, strong leader", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4572", "prompt_id": "prompt_01", "query_reduction": "figure, black clothing, grand halls, ancient institution, controversy, betrayal, investigation, rolling hills, history", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4573", "prompt_id": "prompt_01", "query_reduction": "female wrestler, tag team, international performance, musical appearance", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4573", "prompt_id": "prompt_01", "query_reduction": "female wrestler, tag team, comeback, international performance, musical appearance", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4574", "prompt_id": "prompt_01", "query_reduction": "Guitarist, rebellious band, Detroit, late 1960s, legal issues, prison outreach, reunion celebration", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4575", "prompt_id": "prompt_01", "query_reduction": "Southern gentleman wrestler, friendship group, iconic shoes, teamed with 'tree' name, Japan, guerrilla warfare-named title", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4576", "prompt_id": "prompt_01", "query_reduction": "Australian singer-songwriter, yodeling, Western/outback themes, radio show, possible collaborations", "model_name": "google/gemma-3-12b-it"}
@@ -87,9 +87,9 @@
 {"query_id": "4587", "prompt_id": "prompt_01", "query_reduction": "author, river story, small town narratives, identity, family, missing father", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4588", "prompt_id": "prompt_01", "query_reduction": "baseball player, Japan, unique style, bird emblem, arm injury, comeback, record", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4589", "prompt_id": "prompt_01", "query_reduction": "European environmental activist, energy/power plant protest, underdog victory", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4590", "prompt_id": "prompt_01", "query_reduction": "Local political figure, scandal (finances/taxes), women's initiative, defense role", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4590", "prompt_id": "prompt_01", "query_reduction": "Local female politician, scandal (finances/taxes), championed women in male field, possible highway connection", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4591", "prompt_id": "prompt_01", "query_reduction": "Football player, national team, early 1980s, manager, English leagues", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4592", "prompt_id": "prompt_01", "query_reduction": "Iconic broadcaster, wartime, fog/rain city, challenged powerful figure, shaped global perception of country, charismatic leader", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4592", "prompt_id": "prompt_01", "query_reduction": "Iconic broadcaster, wartime, overseas reporting, influential figure, clash with powerful person, shaping global perception of a country, charismatic leader", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4593", "prompt_id": "prompt_01", "query_reduction": "thinker writer born near classical music, youth movement, war, challenged status quo, imprisoned", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4594", "prompt_id": "prompt_01", "query_reduction": "Retro-style artist, catchy song about body positivity, huge hit, voice work, possibly talent show judge", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4595", "prompt_id": "prompt_01", "query_reduction": "Former wrestler, funky/dinosaur persona, championship, vintage wrestling group, news appearances, wrote a book", "model_name": "google/gemma-3-12b-it"}
@@ -100,7 +100,7 @@
 {"query_id": "4600", "prompt_id": "prompt_01", "query_reduction": "Military leader, mountain warfare, controversial past, Eastern Europe, tragic death, recognition", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4601", "prompt_id": "prompt_01", "query_reduction": "oversight group, Washington D.C., appointed leader, investigative reports", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4602", "prompt_id": "prompt_01", "query_reduction": "region conflict occupation resistance new order", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4603", "prompt_id": "prompt_01", "query_reduction": "recent social/political change, female leader, improved expression, tense gathering, international support, oversight bodies, slow progress", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4603", "prompt_id": "prompt_01", "query_reduction": "recent social/political change, female leader, new rules/guidelines, tense gathering, international attention", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4604", "prompt_id": "prompt_01", "query_reduction": "guided projectile, armor piercing, adaptable launch platform", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4605", "prompt_id": "prompt_01", "query_reduction": "Undecidability of Diophantine equations", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4606", "prompt_id": "prompt_01", "query_reduction": "Northern town, river, hills, cobblestone streets, clock tower, industrial history (railroad), textiles, generous family/group", "model_name": "google/gemma-3-12b-it"}
@@ -108,21 +108,21 @@
 {"query_id": "4608", "prompt_id": "prompt_01", "query_reduction": "Revolutionary group, rural background, class struggle, uprising, internal conflict", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4609", "prompt_id": "prompt_01", "query_reduction": "early 3D file format, detailed textures, layered structure, open standard", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4610", "prompt_id": "prompt_01", "query_reduction": "Canadian Indigenous land rights case, oral history evidence, precedent-setting", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4611", "prompt_id": "prompt_01", "query_reduction": "European game studio (Spain/Italy), late 90s, point-and-click adventure games, spooky mansion game, adventure game series", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4611", "prompt_id": "prompt_01", "query_reduction": "European game studio (Spain/Italy), late 90s, point-and-click adventure games, spooky mansion game, revived adventure genre", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4612", "prompt_id": "prompt_01", "query_reduction": "tall modern building, mixed-use, near old church", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4613", "prompt_id": "prompt_01", "query_reduction": "UK village attack, sports event, weapons, cover-up rumors, tribute", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4613", "prompt_id": "prompt_01", "query_reduction": "UK village attack during sports event, weapons, local group, cover-up rumors, tribute during later event", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4614", "prompt_id": "prompt_01", "query_reduction": "blue robot hero game, collect parts, colorful levels, mechanical pet", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4615", "prompt_id": "prompt_01", "query_reduction": "large-scale renewable energy project 2050-2060", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4616", "prompt_id": "prompt_01", "query_reduction": "historical interactions engineering culture conflict peace technology education", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4616", "prompt_id": "prompt_01", "query_reduction": "historical interactions between engineering-focused nation and culturally vibrant nation", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4617", "prompt_id": "prompt_01", "query_reduction": "Ancient fortress, central India, Mughal & ancient architecture, palace ruins, water feature, cannon", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4618", "prompt_id": "prompt_01", "query_reduction": "ancient warrior group, southern location, desert/mountain campaigns, unique call/symbol, modern conflicts", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4618", "prompt_id": "prompt_01", "query_reduction": "Ancient warrior group, southern location, desert/mountain campaigns, strategic leader, unique call/symbol.", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4619", "prompt_id": "prompt_01", "query_reduction": "online adventure, icy realm, undead creatures, dark knights, life/death power, frozen fortress", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4620", "prompt_id": "prompt_01", "query_reduction": "historic town, river, springs/wells, healing water, old building (castle-like), jazz city nearby", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4620", "prompt_id": "prompt_01", "query_reduction": "historic town, springs/wells, healing water, old building (castle-like), near jazz city, heartland", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4621", "prompt_id": "prompt_01", "query_reduction": "movie content rating system, color-coded, theaters", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4622", "prompt_id": "prompt_01", "query_reduction": "bureaucracy history philosopher", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4623", "prompt_id": "prompt_01", "query_reduction": "1980s race car, unique sound, blue/white or red/black color schemes, dramatic victory, disappeared later", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4623", "prompt_id": "prompt_01", "query_reduction": "1980s race car, unique sound, blue/red color schemes, dramatic victory, disappeared quickly", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4624", "prompt_id": "prompt_01", "query_reduction": "unfulfilled anticipation, fading hope, unexplained loss", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4625", "prompt_id": "prompt_01", "query_reduction": "1950s crooner album, ballads, moody cover, late-night vibe", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4625", "prompt_id": "prompt_01", "query_reduction": "crooner ballads, mid-1950s, moody album cover, late-night vibe", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4626", "prompt_id": "prompt_01", "query_reduction": "European football club, 1970s glory, overseas investment, multiple cultures", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4627", "prompt_id": "prompt_01", "query_reduction": "global energy reserve, international cooperation, arms race prevention", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4628", "prompt_id": "prompt_01", "query_reduction": "Mexican private university, mid-1930s founding, medical program, community health initiative 1970s, bird mascot, independence-focused name", "model_name": "google/gemma-3-12b-it"}
@@ -130,12 +130,12 @@
 {"query_id": "4630", "prompt_id": "prompt_01", "query_reduction": "Eastern Europe military operation, reclaiming territory, large divisions, pivotal moment", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4631", "prompt_id": "prompt_01", "query_reduction": "golden bird, wheat field color, unique song, open spaces, countryside", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4632", "prompt_id": "prompt_01", "query_reduction": "healing hot springs retreat, Alps, mudslide, commercialized", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4633", "prompt_id": "prompt_01", "query_reduction": "Post-apocalyptic series, superhumans, crater setting, renegade priest, shape-shifter companion, young strategist", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4633", "prompt_id": "prompt_01", "query_reduction": "post-apocalyptic series, superhumans, crater setting, renegade priest, shape-shifter companion, young strategist", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4634", "prompt_id": "prompt_01", "query_reduction": "wrestling group, biblical name, 4 members, charismatic leader, enforcer, rivalries", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4635", "prompt_id": "prompt_01", "query_reduction": "female rock band, sisters, 70s/80s, guitar riffs, folk influence", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4636", "prompt_id": "prompt_01", "query_reduction": "father, daughter, chemical/toxin, hospital, diplomatic fallout", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4637", "prompt_id": "prompt_01", "query_reduction": "Road name, eastern state, rolling hills, forests, suburbs, river, toll booths", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4638", "prompt_id": "prompt_01", "query_reduction": "fast racehorse, undefeated, record-breaking, Midwest, Western name owner", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4638", "prompt_id": "prompt_01", "query_reduction": "fast racehorse, undefeated, record mile time, Midwest (Indiana/Minnesota), Western-named owner", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4639", "prompt_id": "prompt_01", "query_reduction": "Evicted community, countryside, ", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4640", "prompt_id": "prompt_01", "query_reduction": "live-action/animated show, treasure thief, young detectives, classical theme music, educational", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4641", "prompt_id": "prompt_01", "query_reduction": "UK TV show, gritty realism, family drama, first gay kiss, controversial plot", "model_name": "google/gemma-3-12b-it"}
@@ -149,7 +149,7 @@
 {"query_id": "4649", "prompt_id": "prompt_01", "query_reduction": "recent hockey tournament, star city team broke dry spell, automotive city team streak, sunny state comeback, tech hub upset, big apple city team", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4650", "prompt_id": "prompt_01", "query_reduction": "Chicago neighborhood, diverse culture, vibrant, historic, spices, music, museum", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4651", "prompt_id": "prompt_01", "query_reduction": "animated action short clips, extreme sports, bizarre villains, time jumps, rival", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4652", "prompt_id": "prompt_01", "query_reduction": "cemetery grave marker errors", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4652", "prompt_id": "prompt_01", "query_reduction": "cemetery grave marker errors scandal", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4653", "prompt_id": "prompt_01", "query_reduction": "French ship, 70 cannons, major sea battles, sinking, disputed history, inspired Jules Verne", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4654", "prompt_id": "prompt_01", "query_reduction": "racing series, legendary driver, final win, cowboy-like rival, dramatic season", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4655", "prompt_id": "prompt_01", "query_reduction": "pedestrian town, river, old church, shell-shaped building, northwestern Europe", "model_name": "google/gemma-3-12b-it"}
@@ -159,23 +159,23 @@
 {"query_id": "4659", "prompt_id": "prompt_01", "query_reduction": "large, round record player DJs used in dance clubs", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4660", "prompt_id": "prompt_01", "query_reduction": "satirical musical, popular, female lead, mocking high society", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4661", "prompt_id": "prompt_01", "query_reduction": "academic digital identity tool, publications, conference papers, ORCID", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4662", "prompt_id": "prompt_01", "query_reduction": "Former military site, English countryside, training ground, museum, communications/signals", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4662", "prompt_id": "prompt_01", "query_reduction": "Former military site, English countryside, training ground, museum, communications/technology", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4663", "prompt_id": "prompt_01", "query_reduction": "early settlement, ocean, harsh winter, lifeline plant, council/assembly, river, relocation, uprising", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4664", "prompt_id": "prompt_01", "query_reduction": "Village/town, rolling hills, musical language, historical significance, community gathering place, festival, music/words", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4665", "prompt_id": "prompt_01", "query_reduction": "Crawley essential services hub, historical, emergency services, health services, postal services", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4665", "prompt_id": "prompt_01", "query_reduction": "Crawley essential services hub, emergency services, health services, postal services, historical", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4666", "prompt_id": "prompt_01", "query_reduction": "Smooth soul album, mid-90s, male vocalist, jazzy vibe, romantic theme, popular song about rising up", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4667", "prompt_id": "prompt_01", "query_reduction": "South Asian maritime force, piracy, international waters, underwater operations", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4668", "prompt_id": "prompt_01", "query_reduction": "young female character, transformation, sharp object, mysterious place, icy antagonist", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4669", "prompt_id": "prompt_01", "query_reduction": "online game, building, community, crafting, laws, island start, no combat, trials/tests, reset cycle", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4670", "prompt_id": "prompt_01", "query_reduction": "English country estate, ", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4671", "prompt_id": "prompt_01", "query_reduction": "fabricated plot, political shift, 1930s", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4672", "prompt_id": "prompt_01", "query_reduction": "immigration, resettlement, green hills, sheep, organized effort, changing focus, tragic event, places of worship", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4672", "prompt_id": "prompt_01", "query_reduction": "immigration, resettlement, green hills, sheep, organized effort, changing policies, religious event", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4673", "prompt_id": "prompt_01", "query_reduction": "Eastern European city with canals, river, history, and diverse culture", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4674", "prompt_id": "prompt_01", "query_reduction": "regional sports network, western PA, local sports", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4675", "prompt_id": "prompt_01", "query_reduction": "West Africa, self-declared independent region, blue attire, nomadic people, trade, resistance", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4676", "prompt_id": "prompt_01", "query_reduction": "quirky late 90s comedy show, talk show/sketch hybrid, unusual hosts, cult following", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4677", "prompt_id": "prompt_01", "query_reduction": "Anglosphere alliance/club", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4678", "prompt_id": "prompt_01", "query_reduction": "small, slippery creature with dark/light splotches and one long toe", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4678", "prompt_id": "prompt_01", "query_reduction": "small, slippery creature with dark/light splotches and one long toe, found in evergreen forests/alpine meadows", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4679", "prompt_id": "prompt_01", "query_reduction": "Southwest area, political contest/race, charismatic recurring figure, surprising defeat", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4680", "prompt_id": "prompt_01", "query_reduction": "immersive cinema sound system, 1980s-1990s, rumbling seats, natural disaster/action films", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4681", "prompt_id": "prompt_01", "query_reduction": "Grassroots movement, accountability for leaders, public vote/consequences, charismatic writer, controversial, shut down", "model_name": "google/gemma-3-12b-it"}
@@ -183,14 +183,14 @@
 {"query_id": "4683", "prompt_id": "prompt_01", "query_reduction": "small digging animal southwest ruins tunnels vulnerable young invasive species", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4684", "prompt_id": "prompt_01", "query_reduction": "diary-style book, writer character, 20th century, literary figures, TV adaptation", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4685", "prompt_id": "prompt_01", "query_reduction": "brown dwarf", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4686", "prompt_id": "prompt_01", "query_reduction": "mid-2000s baseball team, power hitter, home run contest, near playoff contention, player trade, young player award, minor league team win", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4686", "prompt_id": "prompt_01", "query_reduction": "Mid-2000s baseball team, power hitter, home run contest, near playoff contention, player trade, young player award, minor league team win", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4687", "prompt_id": "prompt_01", "query_reduction": "ancient desert civilization, history, markets, river", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4688", "prompt_id": "prompt_01", "query_reduction": "West African forest sanctuary, elephants, primates, butterflies, historical significance, threatened by plantations", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4689", "prompt_id": "prompt_01", "query_reduction": "University near river, Denver, earth sciences, tech innovator, sporting event 1980s", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4689", "prompt_id": "prompt_01", "query_reduction": "University/research institution, Denver, earth sciences, energy, notable figures (leader, tech innovator), late 1980s sporting event", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4690", "prompt_id": "prompt_01", "query_reduction": "story, stars, maps, travel, old-world, revolution, history, boundaries", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4691", "prompt_id": "prompt_01", "query_reduction": "major cycling race, canals, mountains, tower city", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4692", "prompt_id": "prompt_01", "query_reduction": "Victorian-era building with tower and arched windows, historic charm, possibly preserved, near a cottage.", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4693", "prompt_id": "prompt_01", "query_reduction": "golf game, character customization, unlockable outfits, racing mode", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4693", "prompt_id": "prompt_01", "query_reduction": "golf game, character customization, unlockable outfits, speedrunning mode", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4694", "prompt_id": "prompt_01", "query_reduction": "Ancient Indian philosophical text, verses, challenges reality, denies intrinsic nature", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4695", "prompt_id": "prompt_01", "query_reduction": "City Beautiful movement", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4696", "prompt_id": "prompt_01", "query_reduction": "climate activists, art protest, energy transition", "model_name": "google/gemma-3-12b-it"}
@@ -199,7 +199,7 @@
 {"query_id": "4699", "prompt_id": "prompt_01", "query_reduction": "24 Hours of Le Mans endurance race", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4700", "prompt_id": "prompt_01", "query_reduction": "collapse of empire, charismatic leader rises, puppet ruler, unification", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4701", "prompt_id": "prompt_01", "query_reduction": "legalization of cannabis, early 2000s, economic/social impact, regional adoption", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4702", "prompt_id": "prompt_01", "query_reduction": "unique amber beer, fruity/sour taste, European pub, old bottle label } ", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4702", "prompt_id": "prompt_01", "query_reduction": "unique amber beer, fruity/sour taste, old European pub", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4703", "prompt_id": "prompt_01", "query_reduction": "political protests, mid-2000s, leader resignation, controversy, color theme", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4704", "prompt_id": "prompt_01", "query_reduction": "labor group fair pay win red logo", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4705", "prompt_id": "prompt_01", "query_reduction": "conversation turn-taking cultural differences", "model_name": "google/gemma-3-12b-it"}
@@ -211,18 +211,18 @@
 {"query_id": "4711", "prompt_id": "prompt_01", "query_reduction": "Brewers baseball team, contract dispute, key pitcher trade, lost momentum", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4712", "prompt_id": "prompt_01", "query_reduction": "teen girl sees supernatural creatures, romance, special blood, mysterious protector with lineage", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4713", "prompt_id": "prompt_01", "query_reduction": "aircraft engine rotating blades thrust", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4714", "prompt_id": "prompt_01", "query_reduction": "Action adventure game, two characters (logical/maverick), lizard enemies, spaceship mission, futuristic visuals", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4714", "prompt_id": "prompt_01", "query_reduction": "Action adventure game, two characters (logical/maverick), lizard enemies, spaceship mission, futuristic visuals, possible TV series references", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4715", "prompt_id": "prompt_01", "query_reduction": "West Coast music company, swing era, round building, international artists", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4716", "prompt_id": "prompt_01", "query_reduction": "religious school/community, ball sport, legendary coach, fire/outbreak, women's admission, transformative leader", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4717", "prompt_id": "prompt_01", "query_reduction": "Ruler legalized/supported a scrutinized belief system", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4718", "prompt_id": "prompt_01", "query_reduction": "digital books, shiny discs, clickable links, legal/business data company", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4718", "prompt_id": "prompt_01", "query_reduction": "digital books, CD-ROM, clickable links, legal/business data company", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4719", "prompt_id": "prompt_01", "query_reduction": "Northern region, ancient kingdoms, unique language, fortress, connection to southern area", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4720", "prompt_id": "prompt_01", "query_reduction": "Post-war sports league, 12 teams, underdog victory, intense final game", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4721", "prompt_id": "prompt_01", "query_reduction": "early theatrical piece, canals, masks, traveler returns home, divine intervention, loyalty, cunning, ancient chants, bow contest, grand hall", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4721", "prompt_id": "prompt_01", "query_reduction": "early theatrical piece, canals/masks city, traveler returns home, divine intervention, loyalty, ancient chants, bow contest, grand hall", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4722", "prompt_id": "prompt_01", "query_reduction": "British food company, biscuits, grocery, possibly tobacco, early 20th century", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4723", "prompt_id": "prompt_01", "query_reduction": "Southeast Asia floods early 2010s river overflow city", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4724", "prompt_id": "prompt_01", "query_reduction": "historic silver/gold mine, underground labyrinth, tragic fire, Wild West era, possibly Idaho", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4725", "prompt_id": "prompt_01", "query_reduction": "City with river, bridge, old/new architecture, park/garden, possible 'departure' association", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4725", "prompt_id": "prompt_01", "query_reduction": "City with river, bridge, old/new architecture, park/garden, possible 'departure' name", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4726", "prompt_id": "prompt_01", "query_reduction": "Town, southwestern, precision engineering, musical machines, innovative devices, gravity-defying rides", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4727", "prompt_id": "prompt_01", "query_reduction": "Island location, historical empires, rivers, old agreement/decision, unusual landscape, disconnected landmass", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4728", "prompt_id": "prompt_01", "query_reduction": "Modern bridge, road and rail, Balkans, river crossing, two countries", "model_name": "google/gemma-3-12b-it"}
@@ -236,50 +236,50 @@
 {"query_id": "4736", "prompt_id": "prompt_01", "query_reduction": "European immigrant group, political influence, labor movements, social programs, anti-global ideology, internal divisions, prominent figures", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4737", "prompt_id": "prompt_01", "query_reduction": "consideration contract promises", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4738", "prompt_id": "prompt_01", "query_reduction": "ocean research organization, Japan, controversial practices, legal decision, environmental groups", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4739", "prompt_id": "prompt_01", "query_reduction": "Paralympic Games Rio de Janeiro", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4740", "prompt_id": "prompt_01", "query_reduction": "Eastern European system, small areas, elected leaders, population ~few thousand", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4741", "prompt_id": "prompt_01", "query_reduction": "Universal currency/token, language movement, Europe, 1940s-1950s, star/compass design", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4739", "prompt_id": "prompt_01", "query_reduction": "Paralympic Games, Rio de Janeiro, 2016", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4740", "prompt_id": "prompt_01", "query_reduction": "Eastern European system, small areas/kingdoms, elected leaders, population ~few thousand", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4741", "prompt_id": "prompt_01", "query_reduction": "Universal currency/token, language movement, Europe, late 1940s/early 1950s", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4742", "prompt_id": "prompt_01", "query_reduction": "British girl group, late 2000s, catchy, retro/vintage vibe, music video (drive-in theater/dream sequence)", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4743", "prompt_id": "prompt_01", "query_reduction": "ghostly rider story, schoolteacher, farmer's daughter, northeast village", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4744", "prompt_id": "prompt_01", "query_reduction": "handheld device, early 2000s, detects dangerous substances, military tech, mimics animal senses, fluorescence", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4744", "prompt_id": "prompt_01", "query_reduction": "handheld device, early 2000s, detects dangerous substances, military tech, mimics animal senses, fluorescence, portable", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4745", "prompt_id": "prompt_01", "query_reduction": "Mediterranean island, trapezoid shape, hot springs, ancient history (Greek/Roman), fortress/castle", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4746", "prompt_id": "prompt_01", "query_reduction": "aerial display national celebration royal connection", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4746", "prompt_id": "prompt_01", "query_reduction": "aerial display national celebration royal tradition", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4747", "prompt_id": "prompt_01", "query_reduction": "MLB team, historic ballpark, unusual season, pandemic, new manager, financial struggles, poor performance", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4748", "prompt_id": "prompt_01", "query_reduction": "historic European archive/library, old institution, secretive past, documents moved during war, possible digital access", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4749", "prompt_id": "prompt_01", "query_reduction": "Large painting, serene woman with child, angels/historical figures, golden light, art/history city, monastery", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4750", "prompt_id": "prompt_01", "query_reduction": "removed monument, naval hero statue, early 1800s battle, controversial, explosion, city center", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4751", "prompt_id": "prompt_01", "query_reduction": "English countryside village, old church, grand house/castle, canal, historical conflict", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4752", "prompt_id": "prompt_01", "query_reduction": "Old airport Japan, local flights, cultural landmarks", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4753", "prompt_id": "prompt_01", "query_reduction": "predictive profession, mathematics, human behavior, data analysis, risk management", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4754", "prompt_id": "prompt_01", "query_reduction": "female character, shipwreck, martial arts, bird nickname, brooding hero relationship, powerful family bond, time travel team, leadership", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4755", "prompt_id": "prompt_01", "query_reduction": "Network with eye/star logo, '90s merger, local stations, evening news, Detroit acquisition", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4753", "prompt_id": "prompt_01", "query_reduction": "predictive profession, mathematics, human behavior, data, risk management", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4754", "prompt_id": "prompt_01", "query_reduction": "female character, shipwreck, martial arts training, bird nickname, time-traveling team, leadership", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4755", "prompt_id": "prompt_01", "query_reduction": "Network with eye/star logo, '90s merger, local stations, evolving affiliations", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4756", "prompt_id": "prompt_01", "query_reduction": "Asian military unit formed from captured soldiers, charismatic leader, covert operations, rebellion, betrayal", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4757", "prompt_id": "prompt_01", "query_reduction": "unusual digestive growths, cellular conductor, specific protein/enzyme, targeted treatment", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4758", "prompt_id": "prompt_01", "query_reduction": "heavy guitar riffs, haunting melodies, rainy city (coffee, towers), dark/comforting music, song about earth/endings", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4758", "prompt_id": "prompt_01", "query_reduction": "heavy guitar riffs, haunting melodies, rainy city (coffee, towers), dark/comforting music, song about dirt/earth, song about ending", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4759", "prompt_id": "prompt_01", "query_reduction": "animated show, human body, tiny characters, germs/viruses", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4760", "prompt_id": "prompt_01", "query_reduction": "cultural tensions, festival, speeches, clashes, investigation, community changes", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4761", "prompt_id": "prompt_01", "query_reduction": "TV network vs. satellite service recording/streaming dispute", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4762", "prompt_id": "prompt_01", "query_reduction": "Unique arched bridge, stone texture, ornate lamps, cat sculptures", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4763", "prompt_id": "prompt_01", "query_reduction": "Small heartland town, water-related name, old trading post, molasses/syrup festival, Native American heritage, regional history museum, notable figure (law/politics)", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4764", "prompt_id": "prompt_01", "query_reduction": "silent electronic music controller, keys, sliders, futuristic", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4764", "prompt_id": "prompt_01", "query_reduction": "silent electronic music controller, piano-like, buttons/sliders, connected to other devices", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4765", "prompt_id": "prompt_01", "query_reduction": "Football team, striped kits, surprising win vs. red/white team, key forward, cup final win, European ban", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4766", "prompt_id": "prompt_01", "query_reduction": "Politician caught boasting about misconduct in vehicle recording, pre-major event, controversial.", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4767", "prompt_id": "prompt_01", "query_reduction": "country trade deal aircraft resources decades secret ", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4768", "prompt_id": "prompt_01", "query_reduction": "Team, red/white colors, eagle symbol, historic victory, passionate culture", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4769", "prompt_id": "prompt_01", "query_reduction": "Northeastern port city, tall houses, sweet/spicy pastry, historical trade (furs/spices), rhythmic language, wooden shoes, spring festival", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4770", "prompt_id": "prompt_01", "query_reduction": "Time traveler, future society, unique financial system, public nudity, voting on wars", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4770", "prompt_id": "prompt_01", "query_reduction": "time traveler, future society, unique financial system, public nudity, voting on wars", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4771", "prompt_id": "prompt_01", "query_reduction": "Australian coastal sanctuary, islands, diverse marine life, diving, fishing", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4772", "prompt_id": "prompt_01", "query_reduction": "historical exhibition showcasing innovation, crafts, and technology (e.g., weaving machine, calculating device), possibly post-upheaval, resembling medieval fair, precursor to international showcases", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4772", "prompt_id": "prompt_01", "query_reduction": "historical exhibition showcasing innovation, crafts, and early technology (timepieces, musical instruments, weaving machine, calculating device), possibly post-upheaval, resembling medieval fairs, precursor to international showcases", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4773", "prompt_id": "prompt_01", "query_reduction": "historical fantasy drama, masked hero, forbidden love, sword fighting, foreign training, haunting music", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4774", "prompt_id": "prompt_01", "query_reduction": "moody, guitar-heavy album, vinyl release, intense vibe, track about spinning, internal band drama", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4774", "prompt_id": "prompt_01", "query_reduction": "moody, guitar-heavy album, late 90s/early 2000s, rebellious, intense vibe, track about spinning/turning, internal band drama", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4775", "prompt_id": "prompt_01", "query_reduction": "Large painting, Eastern Europe, procession/exodus, staff/cross, somber colors, historical/cultural significance", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4776", "prompt_id": "prompt_01", "query_reduction": "natural compound, hormone-like, variable absorption, liver metabolism, diverse delivery methods, affects men and women differently", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4777", "prompt_id": "prompt_01", "query_reduction": "Large annual gaming event, international, record prize, controversy, rival event", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4777", "prompt_id": "prompt_01", "query_reduction": "large annual gaming event, international, paused, record prize, controversy, rival event", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4778", "prompt_id": "prompt_01", "query_reduction": "British band, catchy song, crosswalk album cover, bluesy feel", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4779", "prompt_id": "prompt_01", "query_reduction": "Pop album, vibrant/neon cover, longing/desire theme, possible plagiarism controversy", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4780", "prompt_id": "prompt_01", "query_reduction": "Basketball team season after star player retirement, record loss vs. cowboy-culture city, legendary flashy figure joins front office, female leadership, improved record, player departures", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4781", "prompt_id": "prompt_01", "query_reduction": "MLB team surge, record-breaking power hitter, pitcher trade, new front office leader", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4782", "prompt_id": "prompt_01", "query_reduction": "band controversy religious comparison apology backlash", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4782", "prompt_id": "prompt_01", "query_reduction": "band controversy religious comparison apology", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4783", "prompt_id": "prompt_01", "query_reduction": "European city destroyed by monarch's forces, near golden statues/lacework, rebuilt quickly", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4784", "prompt_id": "prompt_01", "query_reduction": "comic series, misfit villains, tiny mastermind, familiar foes of red-suited hero, vintage vibe", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4785", "prompt_id": "prompt_01", "query_reduction": "Tall, authoritative hospital administrator with complex relationships, dry humor, and ethical dilemmas.", "model_name": "google/gemma-3-12b-it"}
@@ -298,31 +298,31 @@
 {"query_id": "4798", "prompt_id": "prompt_01", "query_reduction": "weekend TV programming, drama, politics, sports, resilience", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4799", "prompt_id": "prompt_01", "query_reduction": "ancient communal site, mound, river, traditions, historical community", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4800", "prompt_id": "prompt_01", "query_reduction": "Skeptical group, prize for proving psychic abilities, magazine, conventions, debunking myths", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4801", "prompt_id": "prompt_01", "query_reduction": "biplane, aluminum, WWI/WWII, military use, Europe/desert", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4801", "prompt_id": "prompt_01", "query_reduction": "biplane, aluminum, WWI/WWII, reconnaissance, bombing", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4802", "prompt_id": "prompt_01", "query_reduction": "spiritual/worldly news show, interviews, music, animated series, global outreach", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4803", "prompt_id": "prompt_01", "query_reduction": "mentor, young girl, on the run, black armor, flames, recent series", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4804", "prompt_id": "prompt_01", "query_reduction": "large complex, religious site, dome, learning/library, pilgrimage, museum, ancient/modern architecture", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4805", "prompt_id": "prompt_01", "query_reduction": "TV special, alternate history, World War III, late 1990s", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4806", "prompt_id": "prompt_01", "query_reduction": "northwest of city, historic educational institution, hilltop, railway line, strong community", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4806", "prompt_id": "prompt_01", "query_reduction": "northwest of city, historic school, hilltop, railway, old town", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4807", "prompt_id": "prompt_01", "query_reduction": "language revival, sudden widespread adoption, cultural identity", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4808", "prompt_id": "prompt_01", "query_reduction": "animated series, quirky villains, shadowy leader, unusual team", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4809", "prompt_id": "prompt_01", "query_reduction": "College football team, sunny state, oranges, theme parks, large stadium, gators/swamps, coach, big wins, crimson team, hurricane team, championship win, land runs", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4810", "prompt_id": "prompt_01", "query_reduction": "old airfield near capital, historic planes, dirt runways, possible amusement park nearby", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4811", "prompt_id": "prompt_01", "query_reduction": "Indian football team, unusual season, new leader, record broken, final match vs. city-named team, penalty shootout loss", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4812", "prompt_id": "prompt_01", "query_reduction": "tropical archipelago, metal vehicles, local ingenuity, foreign influence", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4812", "prompt_id": "prompt_01", "query_reduction": "Tropical archipelago, metal vehicles, local ingenuity, foreign influence", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4813", "prompt_id": "prompt_01", "query_reduction": "Character with mysterious past, dramatic twist involving fashion, Cinderella story, identity reveal, popular show, flip phone era", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4814", "prompt_id": "prompt_01", "query_reduction": "Southern soldiers, 19th-century conflict, tough fighters, unique unit names (travelers/European city)", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4815", "prompt_id": "prompt_01", "query_reduction": "WWII POW camp Europe, raised huts, escape attempt, airmen, secret radio", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4815", "prompt_id": "prompt_01", "query_reduction": "WWII POW camp Europe raised huts escape attempt", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4816", "prompt_id": "prompt_01", "query_reduction": "high-stakes exam, education milestone, tradition, possibly colonial history", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4817", "prompt_id": "prompt_01", "query_reduction": "ancient bronze slab, France, calendar, Celtic script, lunar/solar cycles", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4818", "prompt_id": "prompt_01", "query_reduction": "long trail, coastal city, panoramic view, endurance event", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4819", "prompt_id": "prompt_01", "query_reduction": "Steampunk siblings, lost parent resurrection, mechanical arm, magical stones", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4820", "prompt_id": "prompt_01", "query_reduction": "object-oriented language, late 80s/early 90s, dynamic, sun logo company, performance-focused, influenced web languages", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4820", "prompt_id": "prompt_01", "query_reduction": "object-oriented language, dynamic, sun logo company, late 80s/early 90s, experimental, performance-focused, influenced web languages", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4821", "prompt_id": "prompt_01", "query_reduction": "historic estate, valley, stone house, horses, old architecture", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4822", "prompt_id": "prompt_01", "query_reduction": "Chicago medical center, research, brains/hearts, children's hospital, rehabilitation, long history", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4822", "prompt_id": "prompt_01", "query_reduction": "Chicago medical center, research, brains/hearts, children's hospital, rehabilitation, university affiliation", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4823", "prompt_id": "prompt_01", "query_reduction": "space opera, woman engineer, threat from distant star, sacrifice, cosmic annihilation, self-contained universe ending", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4824", "prompt_id": "prompt_01", "query_reduction": "historic town, early settlers, independence/revolution, agriculture, railway, community pride", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4825", "prompt_id": "prompt_01", "query_reduction": "College basketball team, big city arena, navy/blue colors, notable coach, balanced record, postseason tournament, faced academic team", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4825", "prompt_id": "prompt_01", "query_reduction": "College basketball team, big city arena, navy/blue colors, legendary coach, balanced record, postseason tournament, faced academic team", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4826", "prompt_id": "prompt_01", "query_reduction": "villain, shape-shifting (boar/king), mystical object, captures key figure, legendary weapon", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4827", "prompt_id": "prompt_01", "query_reduction": "Queensland sports team, late 80s/early 90s, underdog, rugby-like, relocated, reserve league win, merged", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4828", "prompt_id": "prompt_01", "query_reduction": "changing societal moral rules/laws retroactively", "model_name": "google/gemma-3-12b-it"}
@@ -341,30 +341,30 @@
 {"query_id": "4841", "prompt_id": "prompt_01", "query_reduction": "Mediterranean history, empires, faith conflict, golden age, internal strife, modern alliances", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4842", "prompt_id": "prompt_01", "query_reduction": "team with feline mascot, player-coach, powerful infield, young pitching, memorable season", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4843", "prompt_id": "prompt_01", "query_reduction": "Southern, farming nickname, historical group, major conflicts, unusual barricade, political leader", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4844", "prompt_id": "prompt_01", "query_reduction": "obscure, post-apocalyptic brawler, black cartridge console, blue substance gameplay, unique hardware interaction", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4844", "prompt_id": "prompt_01", "query_reduction": "obscure, unreleased/delayed, side-scrolling, gritty cityscape, blue substance gameplay, unique console hardware", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4845", "prompt_id": "prompt_01", "query_reduction": "Mountainous region conflict, early 20th century, empire clash, internal upheaval halted advance, territorial reclamation, humanitarian crisis.", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4846", "prompt_id": "prompt_01", "query_reduction": "European space institute, late 1980s, international collaboration, lunar initiative", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4847", "prompt_id": "prompt_01", "query_reduction": "European noble family, claimed royal descent, strategic marriages, rivalry, French/English ties, eastward movement, name linked to 'rock' and 'fort' ", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4848", "prompt_id": "prompt_01", "query_reduction": "city on water, rivers, islands, modern & old architecture, ice competition, coastal, flat land, sea barriers", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4849", "prompt_id": "prompt_01", "query_reduction": "Small, affordable sedan, facelift, quiet ride, stability safety feature, popular launch", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4850", "prompt_id": "prompt_01", "query_reduction": "Southeast Asia citizenship law mid-20th century birth/parentage/residency requirements", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4850", "prompt_id": "prompt_01", "query_reduction": "Southeast Asia citizenship law, birth/parentage/residency requirements, mid-20th century", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4851", "prompt_id": "prompt_01", "query_reduction": "European battle, wine/cheese country, outnumbered force held ground, strategic stronghold", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4852", "prompt_id": "prompt_01", "query_reduction": "Coastal city, mix of modern & historic architecture, vibrant nightlife, international food, large event venue", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4853", "prompt_id": "prompt_01", "query_reduction": "government leak, secret agent, early 2000s", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4854", "prompt_id": "prompt_01", "query_reduction": "major sporting event, political tension, home team victory, star player, first-time teams", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4855", "prompt_id": "prompt_01", "query_reduction": "historic iron ocean liner, converted to warehouse", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4856", "prompt_id": "prompt_01", "query_reduction": "Northern continent, sugar economy, king/queen-named capital, red stamp, mineral wealth, political controversy, border dispute", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4856", "prompt_id": "prompt_01", "query_reduction": "Northern continent, sugar economy, king/queen-named capital, red stamp, mineral wealth, border dispute", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4857", "prompt_id": "prompt_01", "query_reduction": "Horseback soldiers, unique emblems, slender weapons, desert campaign, historical group", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4858", "prompt_id": "prompt_01", "query_reduction": "California coastal town, old car museum, countryside festival, tech/plane company nearby", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4859", "prompt_id": "prompt_01", "query_reduction": "Southeastern US school, mountains, river, local culture, sports, marching band", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4860", "prompt_id": "prompt_01", "query_reduction": "Portrait of distinguished older man, suit, outstretched hand, books/quill, formal background, diplomacy/agreement", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4861", "prompt_id": "prompt_01", "query_reduction": "Oralism Deaf Education History Debate", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4861", "prompt_id": "prompt_01", "query_reduction": "Oralism deaf education controversy", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4862", "prompt_id": "prompt_01", "query_reduction": "quirky show, 19th-century sailor outfits, fast-paced song, birthday technicality plot", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4863", "prompt_id": "prompt_01", "query_reduction": "teacher character, unsettling charm, manipulative, school setting, redemption/tragedy", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4863", "prompt_id": "prompt_01", "query_reduction": "teacher character, unsettling charm, manipulative, school setting, recurring actor", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4864", "prompt_id": "prompt_01", "query_reduction": "sun-drenched city, salty water, ancient ruins, music festival, diverse culture", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4865", "prompt_id": "prompt_01", "query_reduction": "Mediterranean coastal fortified towns/trading posts, Italian influence, Reconquista connection, faded history", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4866", "prompt_id": "prompt_01", "query_reduction": "science/adventure channel, ponies, transforming robots, game show, documentaries", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4867", "prompt_id": "prompt_01", "query_reduction": "Successful, vibrant, Australian sports team", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4867", "prompt_id": "prompt_01", "query_reduction": "Successful, vibrant team, possibly Australian, known for passionate fans and consistent performance.", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4868", "prompt_id": "prompt_01", "query_reduction": "ancient games culture Mediterranean", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4869", "prompt_id": "prompt_01", "query_reduction": "fair trade", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4870", "prompt_id": "prompt_01", "query_reduction": "Major wrestling event, all titles on the line, early fall, underdog win, fiery-haired woman, dethroned tag team champions, unexpected alliance, family group member brawl", "model_name": "google/gemma-3-12b-it"}
@@ -376,7 +376,7 @@
 {"query_id": "4876", "prompt_id": "prompt_01", "query_reduction": "performance art activism, Eastern Europe, body exposure, women's rights", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4877", "prompt_id": "prompt_01", "query_reduction": "Rugged region, towering formations, volcanic remnants, long fault line, contrasting landscapes", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4878", "prompt_id": "prompt_01", "query_reduction": "Italian cinema, surreal films, emotional narratives, iconic actors", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4879", "prompt_id": "prompt_01", "query_reduction": "Australian band, popular album, haunting song, female vocalist, misunderstood anthem", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4879", "prompt_id": "prompt_01", "query_reduction": "Australian band, popular album, haunting song, female lead singer, misunderstood anthem", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4880", "prompt_id": "prompt_01", "query_reduction": "Complex female character, drama, tumultuous relationship, deceit involving a child, fierce female rival, recurring storylines of betrayal and love", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4881", "prompt_id": "prompt_01", "query_reduction": "Mars rover mission, first landing, dust storm, failure", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4882", "prompt_id": "prompt_01", "query_reduction": "Puzzle game, factory simulation, robotic arms, grid interface", "model_name": "google/gemma-3-12b-it"}
@@ -389,18 +389,18 @@
 {"query_id": "4889", "prompt_id": "prompt_01", "query_reduction": "old green space, town by water, community gathering, ponds, music, monument", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4890", "prompt_id": "prompt_01", "query_reduction": "WWII heavy bomber, large cargo capacity, night operations, dam/river mission", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4891", "prompt_id": "prompt_01", "query_reduction": "Indigenous deaths, settlers, sheep station, Australia, livestock tensions", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4892", "prompt_id": "prompt_01", "query_reduction": "Region under empire, exiled leader, secret gatherings, foreign influence, machines in sky", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4892", "prompt_id": "prompt_01", "query_reduction": "region under empire, exiled leader, secret gatherings, foreign influence, machines in sky", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4893", "prompt_id": "prompt_01", "query_reduction": "Northern town near lakes/rivers, outdoor activities, historical name", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4894", "prompt_id": "prompt_01", "query_reduction": "ancient ritual water cleansing hands face", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4895", "prompt_id": "prompt_01", "query_reduction": "Hidden crossroads, old railway, nearby camp, lakes, rolling hills, northeastern state", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4896", "prompt_id": "prompt_01", "query_reduction": "Family empire, military leader, disasters, arena, conspiracy", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4897", "prompt_id": "prompt_01", "query_reduction": "large, reddish-brown sea creature, powerful jaw, long lifespan, Mediterranean coast", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4897", "prompt_id": "prompt_01", "query_reduction": "large, reddish-brown sea creature, powerful jaw, long lifespan, Mediterranean coastal area", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4898", "prompt_id": "prompt_01", "query_reduction": "1980s TV broadcast interruption, protest message, premium channel", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4899", "prompt_id": "prompt_01", "query_reduction": "Medieval/mechanical fantasy series, musical instrument with magic, journey to stop dark ruler", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4900", "prompt_id": "prompt_01", "query_reduction": "strategy game, handheld console, queen/princess, magic resurrection, ash/embers theme, cinematic cutscenes", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4901", "prompt_id": "prompt_01", "query_reduction": "Weight loss competition show, international training, live finale", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4901", "prompt_id": "prompt_01", "query_reduction": "Weight loss competition show, international training, money buyout, live finale", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4902", "prompt_id": "prompt_01", "query_reduction": "faint, small spiral galaxy visible naked eye, near larger galaxies, star-forming regions, historical catalog", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4903", "prompt_id": "prompt_01", "query_reduction": "interactive play, branching narratives, British humor, small cast", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4903", "prompt_id": "prompt_01", "query_reduction": "interactive play, branching narrative, British humor, small cast", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4904", "prompt_id": "prompt_01", "query_reduction": "rental vehicles, urban cities, limited number, badge/emblem, independent drivers, app-based competition", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4905", "prompt_id": "prompt_01", "query_reduction": "river civilization, ancient traditions, crescent/cross symbols, unique language, vibrant gatherings", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4906", "prompt_id": "prompt_01", "query_reduction": "stone structures, national park, historic production site, possible 1930s use, forced labor", "model_name": "google/gemma-3-12b-it"}
@@ -408,7 +408,7 @@
 {"query_id": "4908", "prompt_id": "prompt_01", "query_reduction": "Southwest insect thriving on desert plants, tolerates plant toxins, possible related species", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4909", "prompt_id": "prompt_01", "query_reduction": "airplane trails conspiracy theory", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4910", "prompt_id": "prompt_01", "query_reduction": "British comedy, family, living room setting, grumpy dad, TV-related humor", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4911", "prompt_id": "prompt_01", "query_reduction": "Chinese construction company, long sea bridge, logistics, transportation, major projects", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4911", "prompt_id": "prompt_01", "query_reduction": "Chinese construction company, long sea bridge, logistics, transportation, major projects, influential", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4912", "prompt_id": "prompt_01", "query_reduction": "film festival, Seattle, Canada, audience award, controversial selection", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4913", "prompt_id": "prompt_01", "query_reduction": "family show, humor, spooky, mysterious lineage, small town", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4914", "prompt_id": "prompt_01", "query_reduction": "former military training site, coastal location, university, park, conservation effort", "model_name": "google/gemma-3-12b-it"}
@@ -416,33 +416,33 @@
 {"query_id": "4916", "prompt_id": "prompt_01", "query_reduction": "historical relationship between two places, trade/alliance, colonial period, post-conflict connection, mutual aid", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4917", "prompt_id": "prompt_01", "query_reduction": "abandoned railway north England coal mining history", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4918", "prompt_id": "prompt_01", "query_reduction": "European financial investigation agency, late 1990s", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4919", "prompt_id": "prompt_01", "query_reduction": "business-focused operating system with unique hardware and web-like file system", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4919", "prompt_id": "prompt_01", "query_reduction": "business-focused operating system with unique hardware and hypertext-like file system", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4920", "prompt_id": "prompt_01", "query_reduction": "Brazil investigation corruption politicians oil", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4921", "prompt_id": "prompt_01", "query_reduction": "university computer system, collaborative, multiple programming languages, magnetic tapes, 1970s-1980s", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4922", "prompt_id": "prompt_01", "query_reduction": "animated show, animal character, red sweater, family, songs, warm/kind, early flat-screen era", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4923", "prompt_id": "prompt_01", "query_reduction": "Hilly city district, white domed building, historic church, headless saint legend", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4922", "prompt_id": "prompt_01", "query_reduction": "animated show, animal character, red sweater, family, songs, early flat-screen era", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4923", "prompt_id": "prompt_01", "query_reduction": "Hilly city district, white domed building, historic church, possible headless saint legend", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4924", "prompt_id": "prompt_01", "query_reduction": "Munich Agreement 1938", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4925", "prompt_id": "prompt_01", "query_reduction": "coastal town, layered history, early inhabitants, settlers, industry, transformation", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4926", "prompt_id": "prompt_01", "query_reduction": "College sports era: dominant team, bowl venue, legendary coach, winning streak, hall of fame player, barrier-breaking player", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4927", "prompt_id": "prompt_01", "query_reduction": "board game, trade/silk, Asia map, family management, historical, strategic", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4927", "prompt_id": "prompt_01", "query_reduction": "board game, trade, Asia, historical, family management, strategic", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4928", "prompt_id": "prompt_01", "query_reduction": "theater performers dispute, management change, legal battle, new ownership", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4929", "prompt_id": "prompt_01", "query_reduction": "animated episode, family, surrogate pregnancy, heated debate, classic animation", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4930", "prompt_id": "prompt_01", "query_reduction": "New England communal living experiment, farm/school, shared resources, philosophy, publication, idealistic", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4931", "prompt_id": "prompt_01", "query_reduction": "reserved seats in government for minority groups", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4932", "prompt_id": "prompt_01", "query_reduction": "European record label, minimalist album covers, jazz/classical fusion, sound/silence motto", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4933", "prompt_id": "prompt_01", "query_reduction": "Southern city, peanut festival, historical unrest, university nearby", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4934", "prompt_id": "prompt_01", "query_reduction": "historical stage show, dark carnival setting, unsettling ambition, haunting music, questioning heroism", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4934", "prompt_id": "prompt_01", "query_reduction": "historical stage show, dark carnival setting, unsettling ambition, American music, questioning heroism", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4935", "prompt_id": "prompt_01", "query_reduction": "Midwest town, rivers meet, stadium, motorsports, murals, rail line, energy focus", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4936", "prompt_id": "prompt_01", "query_reduction": "microscopic hitchhikers, gear-like structure, glide without appendages, symbiotic sea creature, unusual compartment", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4937", "prompt_id": "prompt_01", "query_reduction": "racing game, open world, car customization, early 2000s console", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4938", "prompt_id": "prompt_01", "query_reduction": "1920s jazz song, transformative theme, powerful/smooth vocals, early record label", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4939", "prompt_id": "prompt_01", "query_reduction": "early computer programming language translation/compilation", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4940", "prompt_id": "prompt_01", "query_reduction": "Large, historic building, city, river/waterway, unique postal identity, business/creative hub, possibly family-owned, design events", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4941", "prompt_id": "prompt_01", "query_reduction": "animated series, fabric doll, old west outfit, sad backstory, found a new home", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4942", "prompt_id": "prompt_01", "query_reduction": "West Coast band, jazz/metal fusion, eccentric costumes, past rivalry, reunited with new members", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4941", "prompt_id": "prompt_01", "query_reduction": "animated series, fabric doll, old west, lost love, afraid of dark", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4942", "prompt_id": "prompt_01", "query_reduction": "West Coast band, jazz/metal fusion, unique vocals, costumes, past rivalry, reunited with new members", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4943", "prompt_id": "prompt_01", "query_reduction": "Early 20th century Middle Eastern meetings, diverse group, political/social issue, resisting foreign influence, letter to international conference", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4944", "prompt_id": "prompt_01", "query_reduction": "OS, early 2010s, unique interface, vertical sidebar dock, nostalgic feel", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4945", "prompt_id": "prompt_01", "query_reduction": "Aircraft manufacturer, remote landscapes, explorers, reliable planes", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4944", "prompt_id": "prompt_01", "query_reduction": "OS, early 2010s, unique interface, vertical sidebar dock", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4945", "prompt_id": "prompt_01", "query_reduction": "Aircraft manufacturer, remote landscapes, reliable planes, possible ownership changes", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4946", "prompt_id": "prompt_01", "query_reduction": "halting problem", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4947", "prompt_id": "prompt_01", "query_reduction": "Park with pool, playground, sports field, old architecture, possibly funded by someone from UK, large city", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4948", "prompt_id": "prompt_01", "query_reduction": "icy/fiery world, young girl, mystical connection to nature, environmental urgency, secrets, mythical creatures, balance/creation-destruction", "model_name": "google/gemma-3-12b-it"}
@@ -452,21 +452,21 @@
 {"query_id": "4952", "prompt_id": "prompt_01", "query_reduction": "early football team, pioneer founder, agricultural roots, vibrant color, spooky holiday first match, strategist named like appliance, recent charismatic leader, century-long achievement, lucky rock tradition", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4953", "prompt_id": "prompt_01", "query_reduction": "narcissistic personality traits", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4954", "prompt_id": "prompt_01", "query_reduction": "social admiration/likability theories", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4955", "prompt_id": "prompt_01", "query_reduction": "Australian band, brass instruments, deep vocals, theatrical, anthemic song", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4955", "prompt_id": "prompt_01", "query_reduction": "Australian band, brass instruments, deep vocals, theatrical, driving rhythms", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4956", "prompt_id": "prompt_01", "query_reduction": "city, rolling hills, sweet tea, colonial history, arts district, university, glazed treats", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4957", "prompt_id": "prompt_01", "query_reduction": "Teenage controversy, legal case, cultural region, age debate, international impact, human rights", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4958", "prompt_id": "prompt_01", "query_reduction": "large urban park, old trees, fountain, statues (one on horseback), historical gatherings/protests", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4958", "prompt_id": "prompt_01", "query_reduction": "large urban park, old trees, fountain, statues (one on horse), historical gatherings/protests", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4959", "prompt_id": "prompt_01", "query_reduction": "Swiss energy company, water/renewable power, historical significance, large team, international expansion, safety/efficiency", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4960", "prompt_id": "prompt_01", "query_reduction": "Music magazine, late 80s-late 2000s, photos, political music (Nations/Millions), women's focus, milestone issue", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4961", "prompt_id": "prompt_01", "query_reduction": "Group representations, fields, prime numbers, averaging theorem, related theorem", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4961", "prompt_id": "prompt_01", "query_reduction": "Group representations, fields, prime numbers, averaging theorem, related mathematician", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4962", "prompt_id": "prompt_01", "query_reduction": "global pause/freeze event, woman's journey, ancient sites, sudden silence, restrictions eased", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4963", "prompt_id": "prompt_01", "query_reduction": "Bus route connecting area outside city, green start, orange end, local streets, shopping area, corporate area, Sunday service", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4963", "prompt_id": "prompt_01", "query_reduction": "Bus route connecting area outside city, green start, orange end, local streets, shopping area, corporate area", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4964", "prompt_id": "prompt_01", "query_reduction": "Pacific energy project, economic impact, environmental debate, pipeline construction, local concerns", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4965", "prompt_id": "prompt_01", "query_reduction": "online number sequence collection, early internet, number patterns, possibly audio feature", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4966", "prompt_id": "prompt_01", "query_reduction": "1970s baseball series, injured star, clutch catcher, dynasty clash", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4967", "prompt_id": "prompt_01", "query_reduction": "Brazilian research university, campuses, farms/gardens, cutting-edge research (nanotech/energy), hospitals, state-run", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4968", "prompt_id": "prompt_01", "query_reduction": "large African bird, size difference between sexes, ground nesting, camouflage plumage", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4969", "prompt_id": "prompt_01", "query_reduction": "invisible hand economic theory, historical origin", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4968", "prompt_id": "prompt_01", "query_reduction": "large African bird, size difference between sexes, male courtship display, ground nesting", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4969", "prompt_id": "prompt_01", "query_reduction": "philosophical concept, individual self-interest benefiting society, historical, economic theory", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4970", "prompt_id": "prompt_01", "query_reduction": "Storm destroys city with waterways, firestorm, and impossible choices.", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4971", "prompt_id": "prompt_01", "query_reduction": "Railway company, mining, northern region, late 1980s/early 1990s transition, specialized/private", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4972", "prompt_id": "prompt_01", "query_reduction": "protected forest reserve, ancient trees, ecological importance, indigenous history", "model_name": "google/gemma-3-12b-it"}
@@ -478,7 +478,7 @@
 {"query_id": "4978", "prompt_id": "prompt_01", "query_reduction": "Taiwanese album, early 2010s, vibrant/mythical cover, empowerment theme, pop/indie blend, awards", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4979", "prompt_id": "prompt_01", "query_reduction": "triathlon organization, large prize pool event, professional tour concept, significant investment", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4980", "prompt_id": "prompt_01", "query_reduction": "European story, two people, letters, secret identity, cafe scene, whimsical music, love metaphor", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4981", "prompt_id": "prompt_01", "query_reduction": "Ancient Roman noble family, Republic era, unique name, possible connection to gravestones/hill town, branches with evocative names.", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4981", "prompt_id": "prompt_01", "query_reduction": "Ancient Roman noble family, early Republic connection, unique name, historical origins", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4982", "prompt_id": "prompt_01", "query_reduction": "boxy compact car, hatchback/minivan hybrid, unique interior, special edition", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4983", "prompt_id": "prompt_01", "query_reduction": "New Year's honors, early 1950s, royal tradition, recognition of achievements", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4984", "prompt_id": "prompt_01", "query_reduction": "adaptive reuse buildings", "model_name": "google/gemma-3-12b-it"}
@@ -486,15 +486,15 @@
 {"query_id": "4986", "prompt_id": "prompt_01", "query_reduction": "Venice vs. Ottoman Empire, late 1600s, peninsula battles, olive groves, ancient ruins", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4987", "prompt_id": "prompt_01", "query_reduction": "Ancient writings, mysterious author, connection to prominent group, narrative/letters/cryptic text, ancient city near sea, shifting empires/new ideas, duplicate names, disputed authorship", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4988", "prompt_id": "prompt_01", "query_reduction": "wartime deception strategy, fake location (French pastry name)", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4989", "prompt_id": "prompt_01", "query_reduction": "Regal celebration recognizing achievements, possibly linked to a monarch.", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4990", "prompt_id": "prompt_01", "query_reduction": "Roman ruins, metalworking history, invasion, aircraft bombardment, city history", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4989", "prompt_id": "prompt_01", "query_reduction": "Regal celebration, awards, notable figures, monarch", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4990", "prompt_id": "prompt_01", "query_reduction": "Roman ruins, industrial history, local nobility defense, aircraft bombardment, city history", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4991", "prompt_id": "prompt_01", "query_reduction": "Ancient text, North Africa/Middle East, societal rise/fall, human behavior/governance, history & civilization", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4992", "prompt_id": "prompt_01", "query_reduction": "political reshuffle/redistricting around national leadership change", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4993", "prompt_id": "prompt_01", "query_reduction": "large, historic Anglican cathedral, Australia, intricate stonework, stained glass, large organ", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4994", "prompt_id": "prompt_01", "query_reduction": "Ohio observatory, large telescope, dome, explorer name", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4995", "prompt_id": "prompt_01", "query_reduction": "basketball team, phoenix-like, name changes, 1990s success, 2010s resurgence, international tournament, intense coach, finals appearances, teamwork, flair", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4996", "prompt_id": "prompt_01", "query_reduction": "early settler community gathering place, self-governance, unique rituals (meal, water initiation) ", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "4997", "prompt_id": "prompt_01", "query_reduction": "Historic city square, old clock tower, New Year's tradition (small round food), early 1800s/early 1900s political history, possibly a surviving post office.", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "4997", "prompt_id": "prompt_01", "query_reduction": "Historic city square, old clock tower, New Year's tradition (small round food), early 1800s/early 1900s historical events, possibly a surviving post office.", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4998", "prompt_id": "prompt_01", "query_reduction": "swift, precision weaponry, disruptive force, historical conflicts", "model_name": "google/gemma-3-12b-it"}
 {"query_id": "4999", "prompt_id": "prompt_01", "query_reduction": "English county cricket team, mid-2000s, injury to captain, win vs. dragon emblem team, iconic home ground, reached tournament final", "model_name": "google/gemma-3-12b-it"}
-{"query_id": "5000", "prompt_id": "prompt_01", "query_reduction": "molecular cap, mRNA translation, ribosomes, cell growth, drug", "model_name": "google/gemma-3-12b-it"}
+{"query_id": "5000", "prompt_id": "prompt_01", "query_reduction": "molecular cap, protein translation, ribosomes, cell growth, drug", "model_name": "google/gemma-3-12b-it"}
