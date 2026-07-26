@@ -37,3 +37,16 @@ to try:
 - hugging-quants/Meta-Llama-3.1-70B-Instruct-AWQ-INT4
 - shuyuej/Llama-3.3-70B-Instruct-GPTQ
 - openai/gpt-oss-20b
+
+
+## Retrieval
+
+Index from [2025](https://github.com/TREC-ToT/bench/edit/main/trec25/README.md):
+
+|[trec-tot-2025-pyterrier-index.zip](https://files.webis.de/data-in-progress/trec-tot-2025-indices/trec-tot-2025-pyterrier-index.zip) | PyTerrier | 11GB | a9a22ed35abb6cea842a7c5734987c82 
+
+
+```bash
+./run_retrieval.py --output runs --index trec-tot-2025-pyterrier-index --query-predictions 'predictions/vllm/*.jsonl'
+```
+
